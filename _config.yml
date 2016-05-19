@@ -11,7 +11,7 @@ email: nmmcdona@ucsd.edu
 description: > # this means to ignore newlines until "baseurl:"
   This is my personal blog website that I hopefully will be able to contribute to frequently.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://nmcdonaldd.github.io" # the base hostname & protocol for your site
+url: "http://yourdomain.com/" # the base hostname & protocol for your site
 twitter_username: nickmcd19
 github_username:  nmcdonaldd
 
